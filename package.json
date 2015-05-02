@@ -15,7 +15,7 @@
   },
   "homepage": "https://github.com/der-On/office-scan",
   "author": "Ondrej Brinkel",
-  "license": "GPL",
+  "license": "GPL-3.0",
   "dependencies": {
     "yargs": "~1.1.3"
   }
